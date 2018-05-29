@@ -190,7 +190,7 @@
       "properties": {
         "gopath": {
           "title": "GOPATH",
-          "description": "(Not Recommended For Use) If you have issues setting your GOPATH in your environment, you can use this to establish a fallback value. See https://github.com/joefitzgerald/go-config/wiki/GOPATH for more information.",
+          "description": "Will override your GOPATH to find go code.",
           "type": "string",
           "default": "",
           "order": 1
